@@ -53,6 +53,8 @@ DOM     [-----------------BLOQUEADO: zero trabalho----------------]
 2. Toda transição entre empregos = **mínimo 30 min**.
 3. Máx. 3 reuniões em um mesmo dia. Acima disso, recuso ou remarco.
 4. Se um dia já tem ●▲ + ■, não cabe mais nada. Ponto.
+5. Emprego 5 nunca em domingo, mesmo em demanda urgente.
+   Resposta padrão: *"Só consigo atender a partir de segunda."*
 
 ---
 
@@ -115,6 +117,13 @@ Tamanho de bolso. Frente única. Sem app, sem rolagem.
 
 **Por que máx. 3:** lista grande = paralisia. 3 é o teto.
 
+**Definição de "tarefa" (importante, não esquecer):**
+- Tarefa = **entregável visível, com começo e fim claros**.
+- Reuniões **NÃO** contam (são compromissos de tempo, não decisões).
+- "Estar presente no Emprego X" **NÃO** conta (é horário, não tarefa).
+- Microtarefas (responder e-mail, mensagem) só contam se já ficaram >24h pendentes.
+- 3 tarefas = 3 entregas concretas, **independente de quantos empregos** estão no dia.
+
 ---
 
 ## 5. PRIORIZAÇÃO QUANDO NÃO DÁ TUDO
@@ -165,7 +174,7 @@ Tratar como compromisso. **Não negociável.**
 | Transição             | Entre empregos           | 30–45 min | Silêncio, caminhar, mudar de ambiente    |
 | Recarga sensorial     | 1×/dia obrigatória       | 20 min    | Quarto escuro, fones, sem tela            |
 | Movimento             | 1×/dia                   | 15–30 min | Caminhada, alongamento, dança            |
-| Hiperfoco controlado  | Janela escolhida (ex: ter 19h) | até 2h | Projeto sensorialmente bom         |
+| Hiperfoco controlado  | Janela combinada na semana (ex: sáb 14–16h se não houver ◆, ou manhã livre Ter/Qui) | até 2h | Projeto sensorialmente bom |
 | Dia OFF total         | Domingo                  | 24h       | Zero trabalho. Zero. Inclusive e-mail.   |
 
 **Sinais de que precisa de pausa AGORA:**
@@ -192,6 +201,45 @@ Quando o sistema travar. Não pense — execute na ordem.
    Não tenta as duas.
 ```
 
+### 🚨 SAÍDA DE EMERGÊNCIA — DENTRO DE REUNIÃO / INTERAÇÃO
+
+Quando a crise é **social ou sensorial e acontece na frente de gente**, você não tem o luxo de "ir pra casa". Use um destes scripts sem improvisar:
+
+```
+Script 1 — sair temporariamente (e não voltar):
+  "Preciso me ausentar 2 min, podem seguir."
+  → Sai. Não volta. Encerra depois por mensagem:
+  "Tive um imprevisto, retomamos amanhã. Obrigada."
+
+Script 2 — encerrar conversa que está esgotando:
+  "Preciso processar isso, te respondo mais tarde."
+  → Não negocia o "mais tarde". Pode ser dia seguinte.
+
+Script 3 — recusar pedido na hora, sob pressão social:
+  "Não consigo responder agora, te volto até [prazo seu]."
+  → Comprar tempo é decisão válida, não fuga.
+
+Script 4 — ambiente sensorialmente insuportável (luz/som/calor):
+  "Preciso de ar, já volto."
+  → Sai. Se conseguir voltar com kit portátil (abaixo), volta.
+  → Se não, usa Script 1.
+```
+
+**KIT SENSORIAL PORTÁTIL (sempre na bolsa, diferente do kit em casa):**
+
+```
+[ ] Tampão de ouvido discreto (não fone — passa despercebido)
+[ ] Óculos escuros
+[ ] Algo de mascar (chiclete, bala dura, mastigador)
+[ ] 1 objeto fidget pequeno e silencioso
+[ ] Garrafinha de água
+[ ] Snack denso (barra de proteína, castanha) — fome ≠ crise mas piora tudo
+```
+
+→ Sair de cena **sem pedir permissão** é um direito. Você está prevenindo dano maior.
+
+---
+
 ### 🚨 NÍVEL VERMELHO: shutdown / meltdown iminente
 
 ```
@@ -210,7 +258,7 @@ Quando o sistema travar. Não pense — execute na ordem.
 
 4. Quando voltar a si:
    - Come algo simples
-   - Anota no diário: o que disparou
+   - Registra no **CRM** (item 8): gatilho + nível + o que ajudou
    - Dorme cedo. Amanhã reavalia.
 ```
 
@@ -235,7 +283,34 @@ CAPS / CVV (188 — Brasil)
 
 ---
 
-## 8. REGRAS DE OURO (ler quando duvidar)
+## 8. CRM — REGISTRO DO DIA (app web no celular)
+
+O CRM **não substitui o cartão de papel** — ele registra **depois** o que aconteceu, pra você ver padrões ao longo das semanas.
+
+**Quando preencher:** no encerramento do dia (linha 84 desta página), antes do "sensorial bom" de dormir.
+
+**Tempo alvo:** 60 segundos. Se demorar mais, simplificou demais; se demorar menos, vagou demais.
+
+**O que entra (definição final na seção 9 do próprio app):**
+
+- Energia abertura (🟢/🟡/🔴) — já marcada de manhã no cartão
+- Energia encerramento (🟢/🟡/🔴)
+- Quantas das 3 tarefas concluídas (0/1/2/3)
+- Recarga sensorial aconteceu? (Sim/Não)
+- Crise hoje? (Não / Amarelo / Saída de reunião / Vermelho)
+- Se sim → gatilho em 1 palavra (sensorial / social / cognitivo / transição)
+- 1 palavra do dia (livre: "ok", "duro", "leve", "estranho"…)
+
+**Revisão semanal (domingo, 5 min, dentro do app):**
+- Qual dia foi pior? Por quê em 1 frase.
+- Qual emprego puxou mais energia?
+- Algo muda no planejador? (Se sim, anota; aplica só depois de 2 semanas confirmando.)
+
+→ Acesso pelo navegador do celular. Instalável como app. Funciona offline.
+
+---
+
+## 9. REGRAS DE OURO (ler quando duvidar)
 
 ```
 1. Consultar este papel > tentar lembrar.
